@@ -157,28 +157,3 @@ print(f"MSE: {results['mse']:.5f}, WMSE: {results['wmse']:.5f}")
 2. Run the test suite: `python test.py`
 3. Format code: `black src/ && isort src/`
 4. Type check: `mypy src/`
-
-## 📄 License
-
-[License information]
-
-## 📚 Citation
-
-If you use this code in your research or applications, please cite the original Dynamic Attention Networks work and this modernized implementation.
-
----
-
-## 💡 Suggested Alternative Project Name & Description
-
-**Project Name**: **TempusNet** - Temporal Intelligence Networks
-
-**Description**: TempusNet is a state-of-the-art deep learning framework for temporal pattern recognition and forecasting. Leveraging advanced attention mechanisms and hierarchical neural architectures, TempusNet provides unified, scalable solutions for multivariate time series analysis across industrial, environmental, and financial domains. Built with modern MLOps practices, it offers seamless experimentation, deployment, and monitoring capabilities for production-grade temporal intelligence applications.
-
-**Why this name?**
-- **Tempus**: Latin for "time" - emphasizes the temporal nature
-- **Net**: Indicates the neural network architecture
-- More memorable and professional than the original name
-- Suggests intelligence and networking of temporal data
-- Easier to remember and search for
-
-**Tagline**: "Intelligent Temporal Pattern Recognition & Forecasting Framework"
